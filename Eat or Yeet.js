@@ -170,7 +170,7 @@ const promptArray = [
   "For Rome?",
   "For Sparta?",
   "For 5 dollars?",
-  "I mean, ten dollars is ten dollars.",
+  "Would you do it for 10 dollars?",
 ];
 function getRandomImage() {
   if (imageArray.length === 0) {
